@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/contract-semver-version",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/contract-semver-version": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/contract-semver-version",
+    "origin"
+  ]
+}
